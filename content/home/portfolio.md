@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Blog posts
+      tag: BP
+    - name: projets cyber
+      tag: PC
+    - name: Actualités
+      tag: ACT
 
 design:
   columns: '1'
