@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: blog cyber
+summary: Blog personnel de réflexion autour de la cyber
 tags:
-  - CV
-date: 2022-01-01
-external_link: http://github.com
+  - BlueTeam
+date: 2022-09-30
+external_link: http://cyber.papaya.bzh
 ---
